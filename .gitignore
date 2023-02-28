@@ -1,1 +1,4 @@
 .ipynb_checkpoints/
+.idea/
+02_Pandas_Dataframe.ipynb
+data/
